@@ -173,19 +173,19 @@ class App extends React.Component {
         <div className="slider">
           <Slider {...settings}>
             <div className="slider-comp">
-              <img className="slider-image" src={ProfilePicture} alt="Gallery Image 1" />
+              <img className="slider-image" src={ProfilePicture} alt="Gallery 1" />
             </div>
             <div className="slider-comp">
-            <img className="slider-image" src={ProfilePicture} alt="Gallery Image 2" />
+            <img className="slider-image" src={ProfilePicture} alt="Gallery 2" />
             </div>
             <div className="slider-comp">
-            <img className="slider-image" src={ProfilePicture} alt="Gallery Image 3" />
+            <img className="slider-image" src={ProfilePicture} alt="Gallery 3" />
             </div>
             <div className="slider-comp">
-            <img className="slider-image" src={ProfilePicture} alt="Gallery Image 4" />
+            <img className="slider-image" src={ProfilePicture} alt="Gallery 4" />
             </div>
             <div className="slider-comp">
-            <img className="slider-image" src={ProfilePicture} alt="Gallery Image 5" />
+            <img className="slider-image" src={ProfilePicture} alt="Gallery 5" />
             </div>
           </Slider>
         </div>
@@ -233,32 +233,48 @@ class App extends React.Component {
       <div className="hobbies pb-5">
         <div className="hobbies-title">Hobbies</div>
         <div className="hobbies-group">
-          <div className="hobby-dance">
-            <div>DANCING</div>
+          <div className="flex-center">
+            <div className="hobby-dance">
+              <div>DANCING</div>
+            </div>
           </div>
+          <div className="flex-center">
           <div className="hobby-hiking">
             <div>HIKING</div>
           </div>
+          </div>
+          <div className="flex-center">
           <div className="hobby-poem">
             <div>
               <div>POEMS AND</div>
               <div>APHORISMS</div>
             </div>
           </div>
+          </div>
+          <div className="flex-center">
           <div className="hobby-teaching">
             <div>TEACHING</div>
           </div>
+          </div>
+          <div className="flex-center">
           <div className="hobby-yoga">
             <div>YOGA</div>
           </div>
+          </div>
+          <div className="flex-center">
           <div className="hobby-food">
             <div>FOOD</div>
           </div>
+          </div>
+          <div className="flex-center">
           <div className="hobby-debate">
             <div>DEBATING</div>
           </div>
+          </div>
+          <div className="flex-center">
           <div className="hobby-event">
             <div>EVENT MANAGEMENT</div>
+          </div>
           </div>
         </div>
       </div>
