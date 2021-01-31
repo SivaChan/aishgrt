@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aishgrt/static/css/main.889e0c40.chunk.css",
+    "main.js": "/aishgrt/static/js/main.43e1aa15.chunk.js",
+    "main.js.map": "/aishgrt/static/js/main.43e1aa15.chunk.js.map",
+    "runtime-main.js": "/aishgrt/static/js/runtime-main.c63a8e2b.js",
+    "runtime-main.js.map": "/aishgrt/static/js/runtime-main.c63a8e2b.js.map",
+    "static/css/2.bcf797df.chunk.css": "/aishgrt/static/css/2.bcf797df.chunk.css",
+    "static/js/2.a60b61ad.chunk.js": "/aishgrt/static/js/2.a60b61ad.chunk.js",
+    "static/js/2.a60b61ad.chunk.js.map": "/aishgrt/static/js/2.a60b61ad.chunk.js.map",
+    "static/js/3.aef9571a.chunk.js": "/aishgrt/static/js/3.aef9571a.chunk.js",
+    "static/js/3.aef9571a.chunk.js.map": "/aishgrt/static/js/3.aef9571a.chunk.js.map",
+    "index.html": "/aishgrt/index.html",
+    "static/css/2.bcf797df.chunk.css.map": "/aishgrt/static/css/2.bcf797df.chunk.css.map",
+    "static/css/main.889e0c40.chunk.css.map": "/aishgrt/static/css/main.889e0c40.chunk.css.map",
+    "static/js/2.a60b61ad.chunk.js.LICENSE.txt": "/aishgrt/static/js/2.a60b61ad.chunk.js.LICENSE.txt",
+    "static/media/aish-the-great.7585c4c7.jpeg": "/aishgrt/static/media/aish-the-great.7585c4c7.jpeg",
+    "static/media/App.scss": "/aishgrt/static/media/yoga.654c7ef8.jpg",
+    "static/media/unicorn.53be7e9a.svg": "/aishgrt/static/media/unicorn.53be7e9a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c63a8e2b.js",
+    "static/css/2.bcf797df.chunk.css",
+    "static/js/2.a60b61ad.chunk.js",
+    "static/css/main.889e0c40.chunk.css",
+    "static/js/main.43e1aa15.chunk.js"
+  ]
+}
